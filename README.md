@@ -4,14 +4,9 @@
 </kbd>
 </p>
 <h1 align="left">3kh0 X, codename Hagia </h1>
-<p align="left">The ultimate unblocked games website on the planet.</p>
+<p align="left">Officially Discontinued</p>
 
-[![Join us on Discord](https://invidget.switchblade.xyz/wv6huJAwEv?theme=dark)](https://discord.com/invite/echodev-971769908205604864)
-
-
-## 
-[![Stargazers repo roster for @kaio-lord/website-x](https://reporoster.com/stars/dark/kaio-lord/website-x)](https://github.com/kaio-lord/website-x/stargazers)
-[![Forkers repo roster for @kaio-lord/website-x](https://reporoster.com/forks/dark/kaio-lord/website-x)](https://github.com/kaio-lord/website-x/network/members)
+This release of 3kh0 has been discontinued by Realm Labs. No support will be provided after May. 
 
 
 ## Main Features
